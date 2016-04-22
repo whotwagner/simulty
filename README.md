@@ -1,6 +1,6 @@
 # Simulty
 
-Simulty is a very simple webapp-stress-tool. It reads random urls from a file and executes multiple get-requests simultaneously to them.
+Simulty is a very simple webapp-stress-tool written in ruby. It reads random urls from a file and executes multiple get-requests simultaneously to them.
 
 ## Usage
 
