@@ -3,7 +3,7 @@ require 'net/http'
 
 ###########################################################################
 #                                                                         #
-#   Copyright (C) 2015 Wolfgang Hotwagner(code@feedyourhead.at)		  #
+#   Copyright (C) 2015 Wolfgang Hotwagner(wolfgang.hotwagner@toscom.at)	  #
 #                                                                         #
 #   This program is free software; you can redistribute it                #
 #   and/or modify it under the terms of the                               #
