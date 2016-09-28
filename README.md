@@ -19,5 +19,5 @@ http://www.somefoobar.com/whatever/somewhere/over/the/rainbow.php
 
 ## License
                                                                
-Copyright (C) 2015 Wolfgang Hotwagner(code@feedyourhead.at)  
+Copyright (C) 2015 Wolfgang Hotwagner(wolfgang.hotwagner@toscom.at)  
                                                                
